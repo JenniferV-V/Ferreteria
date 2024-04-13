@@ -1,0 +1,63 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ferreteria.com" resolutions="1x" timestamp="1713034701235">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="128579099" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u100-6.png" crc="3976471029" ref="index"/>
+    <file name="u132-6.png" crc="251742424" ref="index"/>
+    <file name="176904161-nueve-herramientas-de-reparación.jpg" crc="4148138806" seo="true" ref="index"/>
+    <file name="carpentry-tools-design-art-for-house-woodworking-and-construction-vector.jpg" crc="364819002" seo="true" ref="index"/>
+    <file name="set-of-tools-vector.jpg" crc="3995947783" seo="true" ref="index"/>
+    <file name="klein-tools-sumicali.png" crc="518064596" seo="true" ref="index"/>
+    <file name="flat,750x,075,f-pad,750x1000,f8f8f8-crop-u187.jpg" crc="137044833" ref="index"/>
+    <file name="lock.gif" crc="343461383" seo="true" ref="index"/>
+    <file name="descarga.jpg" crc="3833946412" seo="true" ref="index"/>
+    <file name="99287626-trabajo-variado-y-herramientas-para-el-hogar-fondo-de-madera-y-espacio-de-copia.jpg" crc="350324679" seo="true" ref="index"/>
+    <file name="u277-4.png" crc="3941220778" ref="index"/>
+    <file name="u283-8.png" crc="4269540953" ref="index"/>
+    <file name="pngtree-d-rendered-monochrome-toolbox-for-service-garages-against-a-bold-orange-image_3904807.jpg" crc="380750550" seo="true" ref="index"/>
+    <file name="u289-4.png" crc="161882553" ref="index"/>
+    <file name="u295-8.png" crc="4269540953" ref="index"/>
+    <file name="u292-4.png" crc="4233555048" ref="index"/>
+    <file name="u298-8.png" crc="4269540953" ref="index"/>
+    <file name="6fd55d863e338231f9533aec1aa75a22.jpg" crc="3836892054" seo="true" ref="index"/>
+    <file name="71hzirasawl.jpg" crc="3951275997" seo="true" ref="index"/>
+    <file name="u286-4.png" crc="475644200" ref="index"/>
+    <file name="u301-8.png" crc="4269540953" ref="index"/>
+    <file name="u313-4.png" crc="3778114058" ref="index"/>
+    <file name="u369-4.png" crc="365550965" ref="index"/>
+    <file name="polipasto electrico.jpg" crc="3883093697" seo="true" ref="index"/>
+    <file name="u375-4.png" crc="365550965" ref="index"/>
+    <file name="silla de escritorio.jpg" crc="4128961817" seo="true" ref="index"/>
+    <file name="escalera de tijera.jpg" crc="185239886" seo="true" ref="index"/>
+    <file name="u359-4.png" crc="365550965" ref="index"/>
+    <file name="u363-4.png" crc="365550965" ref="index"/>
+    <file name="u317-8.png" crc="443114456" ref="index"/>
+    <file name="u330-4.png" crc="523060459" ref="index"/>
+    <file name="u333-4.png" crc="3784995208" ref="index"/>
+    <file name="u451-4.png" crc="358460394" ref="index"/>
+    <file name="escritorioesquinero.jpg" crc="3945738058" seo="true" ref="index"/>
+    <file name="cautin lapiz.jpg" crc="3868827256" seo="true" ref="index"/>
+    <file name="u423-4.png" crc="290252921" ref="index"/>
+    <file name="piscina.jpg" crc="4065488036" seo="true" ref="index"/>
+    <file name="u479-4.png" crc="473037049" ref="index"/>
+    <file name="u419-6.png" crc="231599027" ref="index"/>
+    <file name="u447-4.png" crc="175223070" ref="index"/>
+    <file name="u475-4.png" crc="429012295" ref="index"/>
+    <file name="u584-4.png" crc="4006946663" ref="index"/>
+    <file name="iman neocube.jpg" crc="230481835" seo="true" ref="index"/>
+    <file name="u556-4.png" crc="277537919" ref="index"/>
+    <file name="u552-4.png" crc="4002538660" ref="index"/>
+    <file name="u580-4.png" crc="157424085" ref="index"/>
+  </folder>
+  <file name="index.html" crc="136326218" seo="true" mt="1713034394904" redirect="true"/>
+</manifest>
